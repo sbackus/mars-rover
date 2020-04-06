@@ -12,4 +12,4 @@ pytest
 
 # To Run the Tests with Coverage
 
-coverage run -m pytest
+pytest --cov=kata .
