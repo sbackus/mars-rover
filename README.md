@@ -13,3 +13,7 @@ pytest
 # To Run the Tests with Coverage
 
 pytest --cov=kata .
+
+# To Run in Watch Mode with Coverage
+
+ptw --runner "pytest --cov=kata"
