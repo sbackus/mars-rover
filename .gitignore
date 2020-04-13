@@ -1,6 +1,10 @@
 # Visual Studio Code configuration
 .vscode/
 
+# Coverage report files
+cov.xml
+htmlcov
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
