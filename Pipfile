@@ -8,6 +8,7 @@ mypy = "*"
 pytest = "*"
 pytest-cov = "*"
 pytest-watch = "*"
+flake8 = "*"
 
 [packages]
 
