@@ -6,13 +6,19 @@ Team Members: (TBD)
 
 # To Install Requirements
 
-Set up a virtual environment of your choice:
-Intro to VirtualEnvs: https://docs.python.org/3/tutorial/venv.html
-Popular tools:
-* PipEnv: https://pipenv-fork.readthedocs.io/en/latest/
-* Poetry: https://python-poetry.org/docs/
+I recommend setting up a virtual environment of your choice, to keep this project's requirements separate from other Python stuff on your system.
 
-After activating your virtual environment, install the requirements:
+( Intro to VirtualEnvs: https://docs.python.org/3/tutorial/venv.html )
+
+I prefer PipEnv: https://pipenv-fork.readthedocs.io/en/latest/ since it both manages project depedencies and a virtual environment to contain them.
+
+    Once PipEnv is installed, you can run
+    ```pipenv sync```
+    To ensure that all dependencies are installed and up to date, and
+    ```pipenv shell```
+    To get a shell that uses this new environment.
+
+If you'd rather not use PipEnv, you can install the requirements manually with:
 
 ```pip install -r requirements.txt```
 
