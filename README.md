@@ -2,7 +2,9 @@
 
 A Python implementation of the Mars Rover Kata, using VSCode, facilitated by David Sturgis as part of the Boston Software Crafters meetup on April 13th, 2020.
 
-Team Members: (TBD)
+Team Members:
+    Sam Backus
+    David Sturgis
 
 # To Install Requirements
 

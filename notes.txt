@@ -1,0 +1,13 @@
+Dave's Mars Rover (Python) Session:
+
+https://prod.liveshare.vsengsaas.visualstudio.com/join?66A3B1BE8DECD176D235D75772D60DD5AAC8
+
+https://pluralsight.zoom.us/j/95823397012?pwd=blg4RWQ5UjlCZDcrT0FrSGtrenVDdz09
+
+6:30 PM: Introduction in main Zoom Session
+
+7:00ish PM: Mars Rover Kata
+
+8:30 PM: Retro and closing remarks
+
+Pluralsight Mob Timer App: https://github.com/pluralsight/mob-timer
